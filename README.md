@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2000<br>📚 I'm currently learning Go<br>🎲 Fun fact: I once DoS'ed a CI pipeline (long story)</p>
+<p align="left">✨ Creating bugs since 1986<br>📚 I'm currently learning Go<br>🎲 Fun fact: I once DoS'ed a CI pipeline (long story)</p>
 
 ###
 
